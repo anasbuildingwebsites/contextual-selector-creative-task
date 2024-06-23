@@ -13,13 +13,13 @@ h1 {
 
 main p {
     background-color: beige;
-    font-size: 12px;
+    font-size: 32px;
     padding: 10px;
     border-radius: 10px;
 }
 
 p img {
-    width: 100px;
+    width: 400px;
     border: 1px solid darkcyan;
     border-radius: 10px;
 }
