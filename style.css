@@ -1,0 +1,39 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: bisque;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+    border: 3px dashed brown;
+    border-radius: 10px;
+}
+
+main p {
+    background-color: beige;
+    font-size: 12px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+p img {
+    width: 100px;
+    border: 1px solid darkcyan;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: peachpuff;
+    border: 3px dashed orange;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+    border: 1px solid orange;
+    border-radius: 10px;
+}
